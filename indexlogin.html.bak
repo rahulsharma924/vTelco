@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<!-- Basic -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>VTelco Mobile</title>
+
+	<meta name="keywords" content="HTML5 Template" />
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+	<!-- Mobile Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+	<!-- Web Fonts  -->
+	<link id="googleFonts"
+		href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap"
+		rel="stylesheet" type="text/css">
+
+	<!-- Vendor CSS -->
+	<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
+	<link rel="stylesheet" href="vendor/animate/animate.compat.css">
+	<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+	<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+	<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+	<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+
+	<!-- Theme CSS -->
+	<link rel="stylesheet" href="css/theme.css">
+	<link rel="stylesheet" href="css/theme-elements.css">
+	<link rel="stylesheet" href="css/theme-blog.css">
+	<link rel="stylesheet" href="css/theme-shop.css">
+
+	<!-- Skin CSS -->
+	<link id="skinCSS" rel="stylesheet" href="css/skins/default.css">
+
+	<!-- Theme Custom CSS -->
+	<link rel="stylesheet" href="css/custom.css">
+	<link rel="stylesheet" type="text/css" href="logincss/style.css" />
+	<!-- Vendor -->
+	<script src="vendor/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script>is_login_page = true;</script>
+	<script type="text/javascript" src="js/main.js"></script>
+	<!-- Head Libs -->
+	<script src="vendor/modernizr/modernizr.min.js"></script>
+	<script src="https://assets.adobedtm.com/8b93b0a558ea/f107dd4f6502/launch-e528dbcdaebd-development.min.js"></script>
+
+</head>
+
+<body data-plugin-page-transition>
+	<div class="body">
+		<header id="header" class="header-effect-shrink"
+			data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
+			<div class="header-body">
+				<div class="header-container container-fluid">
+					<div class="header-row">
+						<div class="header-column">
+							<div class="header-row">
+								<div class="header-logo">
+									<a href="index.html">
+										<img alt="" width="179" height="48" data-sticky-width="179"
+											data-sticky-height="48" src="img/vTelco.PNG">
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</header>
+<div class="container">
+	<div class="content-sec">
+        	<ul class="breadcrumb">
+            	<li><a href="index.html">Homepage</a></li>
+                <li>Login</li>
+            </ul>
+            
+            <h2>Adobe Experience Demo</h2>
+            
+            
+            <div class="col-sm-6">
+            	<div class="login_sec">
+                        <div id="message"></div>
+                        <input name="" id="username" type="text" class="txtfield" placeholder="ex: pixie@gmail.com" /><br />
+
+                        
+                        <input name="" id="password" type="password" class="txtfield" placeholder="Password"  /><br />
+
+                        
+                       <button type="button" class="btn-sm btn-primary btn_login" id="login-btn">Login<br />
+						<span><a href="#">Forgot Password?</a></span></button>
+                        
+                  
+                
+                </div>
+            </div>
+            
+            
+             <div class="col-sm-6 right_content">
+             	<h3><img src="img/logo_black.png" style="" /></h3>
+                
+                <p style="line-height:26px; padding:0 25px;">Welcome to Adobe Experience Demo portal. Simply login and manage your services or requests for new services from our new catalogue.
+</p>
+                
+                </div>
+            
+             
+             <div class="clearfix"></div>
+            
+            
+        </div>
+</div>
+
+		<footer id="footer" class="border-0 mt-0"
+			style="background: url('img/parallax/parallax-8.jpg'); background-size:cover; background-position: 0 100%;">
+			<div class="footer-copyright footer-copyright-style-2 bg-dark footer-top-light-border">
+				<div class="container py-2">
+					<div class="row py-4">
+						<div class="col d-flex align-items-center justify-content-center mb-4 mb-lg-0">
+							<p>&copy; Copyright 2022 Virtusa Technologies Ltd.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+
+	<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+	<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+	<script src="vendor/jquery.cookie/jquery.cookie.min.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="vendor/jquery.validation/jquery.validate.min.js"></script>
+	<script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
+	<script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
+	<script src="vendor/lazysizes/lazysizes.min.js"></script>
+	<script src="vendor/isotope/jquery.isotope.min.js"></script>
+	<script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+	<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+	<script src="vendor/vide/jquery.vide.min.js"></script>
+	<script src="vendor/vivus/vivus.min.js"></script>
+
+	<!-- Theme Base, Components and Settings -->
+	<script src="js/theme.js"></script>
+
+	<!-- Theme Custom -->
+	<script src="js/custom.js"></script>
+
+	<!-- Theme Initialization Files -->
+	<script src="js/theme.init.js"></script>
+	
+	
+
+<script type="text/javascript">_satellite.pageBottom();</script>
+</body>
+
+</html>

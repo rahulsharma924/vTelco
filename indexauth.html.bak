@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<!-- Basic -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title></title>
+
+	<meta name="keywords" content="HTML5 Template" />
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+	<!-- Mobile Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+	<!-- Web Fonts  -->
+	<link id="googleFonts"
+		href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap"
+		rel="stylesheet" type="text/css">
+
+	<!-- Vendor CSS -->
+	<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
+	<link rel="stylesheet" href="vendor/animate/animate.compat.css">
+	<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+	<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+	<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+	<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+
+	<!-- Theme CSS -->
+	<link rel="stylesheet" href="css/theme.css">
+	<link rel="stylesheet" href="css/theme-elements.css">
+	<link rel="stylesheet" href="css/theme-blog.css">
+	<link rel="stylesheet" href="css/theme-shop.css">
+
+	<!-- Skin CSS -->
+	<link id="skinCSS" rel="stylesheet" href="css/skins/default.css">
+
+	<!-- Theme Custom CSS -->
+	<link rel="stylesheet" href="css/custom.css">
+
+	<!-- Head Libs -->
+	<script src="vendor/modernizr/modernizr.min.js"></script>
+
+</head>
+
+<body data-plugin-page-transition>
+
+	<div class="body">
+		<header id="header" class="header-effect-shrink"
+			data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
+			<div class="header-body">
+				<div class="header-container container-fluid">
+					<div class="header-row">
+						<div class="header-column">
+							<div class="header-row">
+								<div class="header-logo">
+									<a href="index.html">
+										<img alt="HCL & T-Mobile" width="179" height="48" data-sticky-width="179"
+											data-sticky-height="48" src="img/vTelco.PNG">
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="header-column justify-content-end">
+							<div class="header-row">
+								<div
+									class="header-nav header-nav-line header-nav-top-line header-nav-top-line-with-border order-2 order-lg-1">
+									<div
+										class="header-nav-main header-nav-main-square header-nav-main-effect-2 header-nav-main-sub-effect-1">
+										<nav class="collapse">
+											<ul class="nav nav-pills" id="mainNav">
+												<li class="dropdown">
+													<a class="dropdown-item dropdown-toggle active" href="index.html">
+														Broadband
+													</a>
+													<ul class="dropdown-menu">
+														<li>
+															<a class="dropdown-item" href="indexbroadband.html">
+																Broadband Deals
+															</a>
+														</li>
+														<li>
+															<a class="dropdown-item" href="indexbroadband.html">
+																Upgrade Broadband
+															</a>
+														</li>
+													</ul>
+												</li>
+												<li class="dropdown">
+													<a class="dropdown-item dropdown-toggle"
+														href="relevant-capability.html">
+														TV
+													</a>
+													
+												</li>
+												<!-- <li class="dropdown">
+													<a class="dropdown-item dropdown-toggle" href="parteringmodel.html">
+														Partnering Model
+													</a>
+												</li> -->
+												<li class="dropdown">
+													<a class="dropdown-item dropdown-toggle"
+														href="case-studies.html">Sports</a>
+
+												</li>
+												<li class="dropdown">
+													<a class="dropdown-item dropdown-toggle"
+														href="approachtoscale.html">Mobile</a>
+													<ul class="dropdown-menu">
+														<li><a class="dropdown-item" href="scale-delivery.html">Sim Only Deals</a></li>
+														<li><a class="dropdown-item"
+																href="talent-acquisition.html">Family Sim Deals</a></li>
+														
+													</ul>
+												</li>
+												<li class="dropdown">
+													<a class="dropdown-item dropdown-toggle"
+														href="innovation.html">Gaming</a>
+												</li>
+												<li class="dropdown">
+													<a class="dropdown-item dropdown-toggle"
+														href="index.html">
+														logout
+													</a>
+													
+												</li>
+												<!-- <li class="dropdown"> -->
+													<!-- <a class="dropdown-item dropdown-toggle" -->
+														<!-- href="tmobile-exp.html">T-Mobile Experience</a> -->
+												<!-- </li> -->
+											</ul>
+										</nav>
+									</div>
+									<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse"
+										data-bs-target=".header-nav-main nav">
+										<i class="fas fa-bars"></i>
+									</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div role="main" class="main">
+
+			<div class="owl-carousel owl-carousel-light owl-carousel-light-init-fadeIn owl-theme manual dots-inside dots-horizontal-center dots-light show-dots-hover nav-inside nav-inside-plus nav-dark nav-md nav-font-size-md show-nav-hover mb-0"
+				data-plugin-options="{'autoplayTimeout': 7000}"
+				data-dynamic-height="['670px','670px','670px','550px','500px']" style="height: 670px;">
+				<div class="owl-stage-outer">
+					<div class="owl-stage">
+
+						<!-- Carousel Slide 1 -->
+						<div class="owl-item "
+							style="background-image: url(botimg/project-nova-hero-d.jpg); background-size: cover; background-position: center;">
+							<div class="container position-relative z-index-3 h-100">
+								<div class="row justify-content-center align-items-center h-100">
+									<div class="col-lg-6">
+										<div class="d-flex flex-column align-items-center">
+											<h3 class="position-relative text-color-light text-4 line-height-5 font-weight-medium px-4 mb-2 appear-animation"
+												data-appear-animation="fadeInDownShorterPlus"
+												data-plugin-options="{'minWindowWidth': 0}">
+												<span
+													class="position-absolute right-100pct top-50pct transform3dy-n50 opacity-3">
+													<img src="botimg/project-nova-hero-d.jpg"
+														class="w-auto appear-animation"
+														data-appear-animation="fadeInRightShorter"
+														data-appear-animation-delay="250"
+														data-plugin-options="{'minWindowWidth': 0}" alt="" />
+												</span>
+												Stay connected from day one.
+												<span
+													class="position-absolute left-100pct top-50pct transform3dy-n50 opacity-3">
+													<img src="botimg/project-nova-hero-d.jpg"
+														class="w-auto appear-animation"
+														data-appear-animation="fadeInLeftShorter"
+														data-appear-animation-delay="250"
+														data-plugin-options="{'minWindowWidth': 0}" alt="" />
+												</span>
+											</h3>
+											<p class="text-4-5 text-color-light font-weight-light opacity-7 mb-4"
+												data-plugin-animated-letters
+												data-plugin-options="{'startDelay': 1000, 'minWindowWidth': 0, 'animationSpeed': 10}">
+												Verizon makes it easy for newcomers to the US to use their good credit to get financing on the latest devices. </p>
+											
+										</div>
+										<div class="text-4 text-color-light font-weight-light text-center mb-0"
+												data-plugin-animated-letters
+												data-plugin-options="{'startDelay': 1000, 'minWindowWidth': 0}">
+												 </div>
+										<div class="text-4 text-color-light font-weight-light text-center mb-0"
+												data-plugin-animated-letters
+												data-plugin-options="{'startDelay': 1500, 'minWindowWidth': 0}">
+												 </div>		 
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<!-- Carousel Slide 2 -->
+						<div class="owl-item position-relative overlay overlay-show overlay-op-8"
+							style="background-image: url(img/slides/slide-corporate-1-2.jpg); background-size: cover; background-position: center;">
+							<div class="container position-relative z-index-3 h-100">
+								<div class="row justify-content-center align-items-center h-100">
+									<div class="col-lg-7">
+										<div class="d-flex flex-column align-items-center">
+											<p class="text-color-light text-5 mb-4 appear-animation"
+												data-appear-animation="blurIn"
+												data-plugin-options="{'minWindowWidth': 0}">Find a better home internet near you.</p>
+											<p class="text-4-5 text-color-light font-weight-light opacity-7 mb-4"
+												data-plugin-animated-letters
+												data-plugin-options="{'startDelay': 1000, 'minWindowWidth': 0, 'animationSpeed': 5}">
+												We have 3 fast and reliable internet solutions. Let us know where you are,and we’ll show you which one covers your area. Check availability </p>
+												
+										</div>
+										
+												
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<div class="owl-dots mb-5">
+					<button role="button" class="owl-dot active"><span></span></button>
+					<button role="button" class="owl-dot"><span></span></button>
+				</div>
+			</div>
+
+			<div class="container py-4">
+
+				<div class="row">
+					<div class="col">
+						<div class="blog-posts">
+
+							<div class="row">
+								<div class="col-md-4">
+									<article class="post post-medium border-0 pb-0 mb-5">
+										<div class="post-image">
+											<a href="#" data-bs-toggle="modal" data-bs-target="#largeModal">
+												<img src="img/blog/square/verizon-store.jpg"
+													class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+													alt="" />
+											</a>
+										</div>
+
+										<div class="post-content">
+
+											<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="#"
+													data-bs-toggle="modal" data-bs-target="#largeModal">BroadBand</a></h2>
+											<p>Power Up your Home Office with Upto 1 Gbps Superfast Speed. Get  Xstream Fiber Now. Get Upto 1 GBPS speed with Unlimited Data, Free Installation & Router. Starting @ $499. Free Installation. 15% Off on Annual Plan. Free Dual Band Router.</p>
+
+											<div class="post-meta">
+												<span class="d-block mt-2"><a href="#" data-bs-toggle="modal"
+														data-bs-target="#largeModal"
+														class="btn btn-xs btn-light text-1 text-uppercase"
+														data-bs-toggle="modal" data-bs-target="#largeModal">Read
+														More</a></span>
+											</div>
+
+										</div>
+									</article>
+								</div>
+
+								<div class="col-md-4">
+									<article class="post post-medium border-0 pb-0 mb-5">
+										<div class="post-image">
+											<a href="#" data-bs-toggle="modal" data-bs-target="#largeModal">
+												<img src="img/blog/square/verizon-store.jpg"
+													class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+													alt="" />
+											</a>
+										</div>
+
+										<div class="post-content">
+
+											<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="#"
+													data-bs-toggle="modal" data-bs-target="#largeModal">Mobile Deals</a></h2>
+											<p>Bring your 5G phone. We’ll pay it off up to $800.</p>
+											<div class="post-meta">
+												<span class="d-block mt-2"><a href="#" data-bs-toggle="modal"
+														data-bs-target="#largeModal"
+														class="btn btn-xs btn-light text-1 text-uppercase"
+														data-bs-toggle="modal" data-bs-target="#largeModal">Read
+														More</a></span>
+											</div>
+
+										</div>
+									</article>
+								</div>
+
+								<div class="col-md-4">
+									<article class="post post-medium border-0 pb-0 mb-5">
+										<div class="post-image">
+											<a href="#" data-bs-toggle="modal" data-bs-target="#largeModal">
+												<img src="img/blog/square/verizon-store.jpg"
+													class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+													alt="" />
+											</a>
+										</div>
+
+										<div class="post-content">
+
+											<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="#"
+													data-bs-toggle="modal" data-bs-target="#largeModal">IOT</a>
+											</h2>
+											<p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu
+												ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+
+											<div class="post-meta">
+												<span class="d-block mt-2"><a href="#" data-bs-toggle="modal"
+														data-bs-target="#largeModal"
+														class="btn btn-xs btn-light text-1 text-uppercase"
+														data-bs-toggle="modal" data-bs-target="#largeModal">Read
+														More</a></span>
+											</div>
+										</div>
+									</article>
+								</div>
+
+								<div class="col-md-4">
+									<article class="post post-medium border-0 pb-0 mb-5">
+										<div class="post-image">
+											<a href="#" data-bs-toggle="modal" data-bs-target="#largeModal">
+												<img src="img/blog/square/verizon-store.jpg"
+													class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+													alt="" />
+											</a>
+										</div>
+
+										<div class="post-content">
+
+											<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="#"
+													data-bs-toggle="modal" data-bs-target="#largeModal">Digital 
+													Voices</a></h2>
+											<p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu
+												ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+											<div class="post-meta">
+												<span class="d-block mt-2"><a href="#" data-bs-toggle="modal"
+														data-bs-target="#largeModal"
+														class="btn btn-xs btn-light text-1 text-uppercase"
+														data-bs-toggle="modal" data-bs-target="#largeModal">Read
+														More</a></span>
+											</div>
+
+
+										</div>
+									</article>
+								</div>
+
+								<div class="col-md-4">
+									<article class="post post-medium border-0 pb-0 mb-5">
+										<div class="post-image">
+											<a href="#" data-bs-toggle="modal" data-bs-target="#largeModal">
+												<img src="img/blog/square/verizon-store.jpg"
+													class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+													alt="" />
+											</a>
+										</div>
+
+										<div class="post-content">
+
+											<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="#"
+													data-bs-toggle="modal" data-bs-target="#largeModal">TV</a>
+											</h2>
+											<p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu
+												ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+
+											<div class="post-meta">
+												<span class="d-block mt-2"><a href="#" data-bs-toggle="modal"
+														data-bs-target="#largeModal"
+														class="btn btn-xs btn-light text-1 text-uppercase"
+														data-bs-toggle="modal" data-bs-target="#largeModal">Read
+														More</a></span>
+											</div>
+
+										</div>
+									</article>
+								</div>
+
+								<div class="col-md-4">
+									<article class="post post-medium border-0 pb-0 mb-5">
+										<div class="post-image">
+											<a href="#" data-bs-toggle="modal" data-bs-target="#largeModal">
+												<img src="img/blog/square/verizon-store.jpg"
+													class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+													alt="" />
+											</a>
+										</div>
+
+										<div class="post-content">
+
+											<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="#"
+													data-bs-toggle="modal" data-bs-target="#largeModal">Landline Deals</a>
+											</h2>
+											<p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu
+												ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+
+											<div class="post-meta">
+												<span class="d-block mt-2"><a href="#"
+														class="btn btn-xs btn-light text-1 text-uppercase"
+														data-bs-toggle="modal" data-bs-target="#largeModal">Read
+														More</a></span>
+											</div>
+
+										</div>
+									</article>
+								</div>
+
+							</div>
+
+
+
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<footer id="footer" class="border-0 mt-0"
+			style="background: url('img/parallax/parallax-8.jpg'); background-size:cover; background-position: 0 100%;">
+			<div class="footer-copyright footer-copyright-style-2 bg-dark footer-top-light-border">
+				<div class="container py-2">
+					<div class="row py-4">
+						<div class="col d-flex align-items-center justify-content-center mb-4 mb-lg-0">
+							<p>&copy; Copyright 2022 Virtusa Technologies Ltd.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+	<div class="modal fade" id="largeModal" tabindex="-1" role="dialog" aria-labelledby="largeModalLabel"
+		aria-hidden="true">
+		<div class="modal-dialog modal-xl">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title" id="largeModalLabel">Large Modal Title</h4>
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true">&times;</button>
+				</div>
+				<div class="modal-body">
+					<h4>About the Solutions</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque
+						neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a>
+						lacinia.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque
+						neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a>
+						lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In
+						eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in
+						faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula.
+						Fusce eget metus lorem, ac viverra leo. Nullam convallis, arcu vel pellentesque
+						sodales, nisi est varius diam, ac ultrices sem ante quis sem. Proin ultricies
+						volutpat sapien, nec scelerisque ligula mollis lobortis.</p>
+
+					<div class="row">
+						<div class="col">
+							<h4 class="mb-0">Image Section</h4>
+							<p>By default, thumbnails are designed to showcase linked images with minimal required
+								markup.</p>
+
+							<div class="row">
+								<div class="col-lg-3">
+									<img class="img-fluid rounded mb-4" src="img/blog/square/blog-1.jpg"
+										alt="Project Image">
+								</div>
+								<div class="col-lg-3">
+									<img class="img-fluid mb-4 border-radius-0" src="img/blog/square/blog-2.jpg"
+										alt="Project Image">
+								</div>
+								<div class="col-lg-3">
+									<img class="img-fluid rounded-circle mb-4" src="img/blog/square/blog-25.jpg"
+										alt="Project Image">
+								</div>
+								<div class="col-lg-3">
+									<span class="img-thumbnail d-block">
+										<img class="img-fluid" src="img/blog/square/blog-4.jpg" alt="Project Image">
+									</span>
+								</div>
+							</div>
+
+						</div>
+					</div>
+
+
+					<h4>Solution Offerings</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque
+						neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a>
+						lacinia.</p>
+					<div class="container px-0">
+						<div class="col">
+							<div class="row mt-3 mb-3">
+								<div class="col-md-4 appear-animation animated fadeInLeftShorter appear-animation-visible"
+									data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="800"
+									style="animation-delay: 800ms;">
+									<h3 class="font-weight-bold text-4 mb-2">Our Mission</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+										elementum, nulla vel pellentesque consequat, ante nulla
+										hendrerit arcu.</p>
+								</div>
+								<div class="col-md-4 appear-animation animated fadeIn appear-animation-visible"
+									data-appear-animation="fadeIn" data-appear-animation-delay="600"
+									style="animation-delay: 600ms;">
+									<h3 class="font-weight-bold text-4 mb-2">Our Vision</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+										nulla vel pellentesque consequat, ante nulla hendrerit arcu.</p>
+								</div>
+								<div class="col-md-4 appear-animation animated fadeInRightShorter appear-animation-visible"
+									data-appear-animation="fadeInRightShorter" data-appear-animation-delay="800"
+									style="animation-delay: 800ms;">
+									<h3 class="font-weight-bold text-4 mb-2">Why Us</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+										elementum, nulla vel consequat, ante nulla hendrerit arcu.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4>Business Benefits</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque
+						neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a>
+						lacinia.</p>
+					<div class="container-fluid px-2">
+						<div class="row featured-boxes-full featured-boxes-full-scale">
+							<div class="col-lg-6 featured-box-full featured-box-full-primary">
+								<!-- <i class="far fa-life-ring"></i> -->
+								<h4>Customer Support</h4>
+								<p class="font-weight-light">Lorem ipsum dolor sit amet, consectetur
+									adipiscing metus elit. Quisque rutrum pellentesque imperdiet.
+									Quisque rutrum pellentesque imperdiet.</p>
+							</div>
+							<div class="col-lg-6 featured-box-full featured-box-full-secondary">
+								<!-- <i class="fas fa-film"></i> -->
+								<h4>Sliders</h4>
+								<p class="font-weight-light">Lorem ipsum dolor sit amet, consectetur
+									adipiscing metus elit. Quisque rutrum pellentesque imperdiet.
+									Quisque rutrum pellentesque imperdiet.</p>
+							</div>
+						</div>
+						<div class="row featured-boxes-full featured-boxes-full-scale">
+							<div class="col-lg-6 featured-box-full featured-box-full-secondary">
+								<!-- <i class="far fa-life-ring"></i> -->
+								<h4>Customer Support</h4>
+								<p class="font-weight-light">Lorem ipsum dolor sit amet, consectetur
+									adipiscing metus elit. Quisque rutrum pellentesque imperdiet.
+									Quisque rutrum pellentesque imperdiet.</p>
+							</div>
+							<div class="col-lg-6 featured-box-full featured-box-full-primary">
+								<!-- <i class="fas fa-film"></i> -->
+								<h4>Sliders</h4>
+								<p class="font-weight-light">Lorem ipsum dolor sit amet, consectetur
+									adipiscing metus elit. Quisque rutrum pellentesque imperdiet.
+									Quisque rutrum pellentesque imperdiet.</p>
+							</div>
+
+						</div>
+					</div>
+
+					<div class="container-fluid mt-4 px-0 mb-4">
+						<div class="row">
+							<div class="col">
+								<h4>Video of the solutions</h4>
+								<div class="post-image">
+									<div class="ratio ratio-16x9">
+										<iframe
+											src="https://player.vimeo.com/video/45830194?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0"
+											width="640" height="360" allowfullscreen=""></iframe>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<h4>References</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque
+						neque eget diam posuere porta. Quisque ut nulla at nunc <a href="https://www.hcltech.com">HCL
+							Technologies</a>
+						lacinia.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque
+						neque eget diam posuere porta. Quisque ut nulla at nunc <a href="https://www.hcltech.com">HCL
+							Technologies</a>
+						lacinia.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque
+						neque eget diam posuere porta. Quisque ut nulla at nunc <a href="https://www.hcltech.com">HCL
+							Technologies</a>
+						lacinia.</p>
+
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-light" data-bs-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Vendor -->
+	<script src="vendor/jquery/jquery.min.js"></script>
+	<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+	<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+	<script src="vendor/jquery.cookie/jquery.cookie.min.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="vendor/jquery.validation/jquery.validate.min.js"></script>
+	<script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
+	<script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
+	<script src="vendor/lazysizes/lazysizes.min.js"></script>
+	<script src="vendor/isotope/jquery.isotope.min.js"></script>
+	<script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+	<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+	<script src="vendor/vide/jquery.vide.min.js"></script>
+	<script src="vendor/vivus/vivus.min.js"></script>
+
+	<!-- Theme Base, Components and Settings -->
+	<script src="js/theme.js"></script>
+
+	<!-- Theme Custom -->
+	<script src="js/custom.js"></script>
+
+	<!-- Theme Initialization Files -->
+	<script src="js/theme.init.js"></script>
+
+</body>
+
+</html>
